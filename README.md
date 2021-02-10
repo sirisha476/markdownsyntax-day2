@@ -64,7 +64,7 @@ void main(_)
 [fb](https://www.facebook.com/)
 ## add college website link
 [kits](https://www.kits.com/)
-Git commands
+## Git commands
 - git init
     - to initialise 
 - git status
@@ -75,8 +75,14 @@ Git commands
     - adds the filename into staging area
 - git remote
     - current remotes in repository
-- git r
+- git remote -v
     - remote name along with the repository link
+- git clone "repourl"
+    - it will copy the repository files into ur local system
+- git remote add remotename "repolink"
+    - it will creates a remote with remotename
+- git log
+    - 
 ## inserting images
 ![images](https://github.com/sirisha476/markdownsyntax-day2/blob/master/images.jpg)
 ## insrting vedioes
