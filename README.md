@@ -80,4 +80,4 @@ Git commands
 ## inserting images
 ![images](https://github.com/sirisha476/markdownsyntax-day2/blob/master/images.jpg)
 ## insrting vedioes
-[![funny vedio](https://img.youtube.com/vi/=Q1R5Y1RGxSs/0.jpg)](https://www.youtube.com/watch?v=Q1R5Y1RGxSs)
+[![funny vedio](https://img.youtube.com/vi/Q1R5Y1RGxSs/0.jpg)](https://www.youtube.com/watch?v=Q1R5Y1RGxSs)
