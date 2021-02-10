@@ -78,4 +78,4 @@ Git commands
 - git r
     - remote name along with the repository link
 ## inserting images
-![images]()https://github.com/sirisha476/markdownsyntax-day2/blob/master/images.jpg
+![images](https://github.com/sirisha476/markdownsyntax-day2/blob/master/images.jpg)
