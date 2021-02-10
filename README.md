@@ -75,5 +75,7 @@ Git commands
     - adds the filename into staging area
 - git remote
     - current remotes in repository
-- git remote -v
+- git r
     - remote name along with the repository link
+## inserting images
+![images]()https://github.com/sirisha476/markdownsyntax-day2/blob/master/images.jpg
