@@ -41,3 +41,12 @@ kjzhgdfn,x
 - eee
     + eeeA
     + eeeB
+## code
+`
+def fun():
+    print("welcome to github workshop by apssdc")
+`    
+## function calling
+`
+fun()
+`
