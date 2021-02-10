@@ -79,3 +79,5 @@ Git commands
     - remote name along with the repository link
 ## inserting images
 ![images](https://github.com/sirisha476/markdownsyntax-day2/blob/master/images.jpg)
+## insrting vedioes
+[![funny vedio](https://img.youtube.com/=Q1R5Y1RGxSs/0.jpg))](https://www.youtube.com/watch?v=Q1R5Y1RGxSs)
