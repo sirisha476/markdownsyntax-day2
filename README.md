@@ -64,3 +64,8 @@ void main(_)
 [fb](https://www.facebook.com/)
 ## add college website link
 [kits](https://www.kits.com/)
+- git init
+    - to initialise 
+- git status
+    - to 
+    
