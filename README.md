@@ -64,8 +64,16 @@ void main(_)
 [fb](https://www.facebook.com/)
 ## add college website link
 [kits](https://www.kits.com/)
+Git commands
 - git init
     - to initialise 
 - git status
-    - to 
-    
+    - current working status
+- git branch
+    - current working branch
+- git add filename
+    - adds the filename into staging area
+- git remote
+    - current remotes in repository
+- git remote -v
+    - remote name along with the repository link
