@@ -82,7 +82,24 @@ void main(_)
 - git remote add remotename "repolink"
     - it will creates a remote with remotename
 - git log
-    - 
+    - it will gives a commited history
+- git log --oneline
+    - it will gives a committed history in oneline
+- git revert filename
+    - it will undo the changes
+- git reset filename
+    - it will reset ur file preferences
+- git rm filename
+    - it removes filename
+- git config user.name "username"
+    - it sets ur username
+- git config user.email "useremail"
+    - it sets ur email
+- git commit -m "message"
+    - it commits ur changes along with messages
+- git push remotename branchname
+    - to push
+    
 ## inserting images
 ![images](https://github.com/sirisha476/markdownsyntax-day2/blob/master/images.jpg)
 ## insrting vedioes
